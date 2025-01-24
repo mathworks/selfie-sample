@@ -19,7 +19,7 @@ This module contains an interactive [MATLAB® App](https://www.mathworks.com/hel
 This app was developed to allow you to use MATLAB® Online to transform selfies into original auditory explorations.
 
 
-MathWorks sponsors the [MIRROR (Movement to Invest in Reciprocity & Re\-imagine Outreach Relationships](https://www.olin.edu/MIRROR)), a STEM impact studio by Olin College in Cambridge, MA. Led by Dr. Amon Millner, MIRROR seeks to redefine outreach partnerships with industry, academia, and communities. Recognized by the [Biden\-Harris Administration](https://www.whitehouse.gov/ostp/news-updates/2022/12/12/fact-sheet-biden-harris-administration-announces-bold-multi-sector-actions-to-eliminate-systemic-barriers-in-stemm/), MIRROR aims to remove systemic barriers in STEM.
+MathWorks sponsors the [MIRROR (Movement to Invest in Reciprocity & Re\-imagine Outreach Relationships](https://www.olin.edu/MIRROR)), a STEM impact studio by Olin College in Cambridge, MA. Led by Dr. Amon Millner, MIRROR seeks to redefine outreach partnerships with industry, academia, and communities. Recognized by the [Biden\-Harris Administration](https://www.eda.gov/news/press-release/2023/09/19/biden-harris-administration-invests-45-million-stem-workforce), MIRROR aims to remove systemic barriers in STEM.
 
 
 A highlight of MIRROR is the STEM Story Slam, where diverse STEM participants share experiences through creative expressions.
